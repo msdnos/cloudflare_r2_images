@@ -1,6 +1,10 @@
 # cloudflare_r2_images
 # CloudFlare R2对象存储图片管理系统
 
+这里更新可能慢，最新版请往
+
+https://www.wogaosuni.com/thread-3144.htm
+
 #### 一、环境要求：
 
 1、php 8.x+(建议8.2以上，因为AWS SDK 要求高)
