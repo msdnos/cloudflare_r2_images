@@ -3,7 +3,6 @@
 
 这里更新可能慢，最新版请往
 
-https://www.wogaosuni.com/thread-3144.htm
 
 #### 一、环境要求：
 
