@@ -53,8 +53,8 @@ echo "<!-- 当前会话: " . print_r($_SESSION, true) . " -->";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>登录 - 图片管理</title>
     <link rel="icon" href="logo.svg" type="image/svg+xml">
-    <link href="https://cdn.9930.top:9930/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.9930.top:9930/bootstrap-icons/1.10.0/font/bootstrap-icons.css"  rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.css"  rel="stylesheet">
 </head>
 <body class="bg-light">
     <div class="container mt-5">
