@@ -368,10 +368,10 @@ try {
         <div class="container">
             <div class="footer-content">
                 <div class="footer-links">
-                    <a href="https://github.com/msdnos/cloudflare_r2_images">Github</a>
-                    <a href="https://github.com/msdnos/cloudflare_r2_images/blob/main/README.md">使用帮助</a>
-                    <a href="https://www.wogaosuni.com">最新版本</a>
-                    <a href="https://2220.top">教坊司</a>
+                    <a target="_blank" href="https://github.com/msdnos/cloudflare_r2_images">Github</a>
+                    <a target="_blank" href="https://github.com/msdnos/cloudflare_r2_images/blob/main/README.md">使用帮助</a>
+                    <a target="_blank" href="https://www.wogaosuni.com">最新版本</a>
+                    <a target="_blank" href="https://2220.top">教坊司</a>
                 </div>
                 <div class="footer-copyright">
                     &copy; <?php echo date('Y'); ?> CloudFlare R2对象存储图片管理系统 v0.9 版权所有 
