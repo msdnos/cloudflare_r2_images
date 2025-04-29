@@ -24,7 +24,7 @@ ssh 进入网站目录：cd /www/wwwroot/images_我是网页目录_com
     define('R2_BUCKET', 'images');  // 您的存储桶名称(需替换)
     define('R2_PUBLIC_URL', '您的公开访问域名(需替换，不需要“/”)');   // 您的公开访问域名(需替换) 例如：http://images.images.com
 
-![](https://images.0880.top/images_681042b3373455.68192302.png)
+![]([https://images.0880.top/images_681042b3373455.68192302.png](https://github.com/msdnos/cloudflare_r2_images/blob/main/demo_images/demo002.png))
 
 #### 三、整体预览：
 
