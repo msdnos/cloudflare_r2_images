@@ -147,8 +147,8 @@ try {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CloudFlare R2对象存储图片管理系统</title>
     <link rel="icon" href="logo.svg" type="image/svg+xml">
-    <link href="https://cdn.9930.top:9930/twitter-bootstrap/5.3.0/css/bootstrap.min.css"  rel="stylesheet">
-    <link href="https://cdn.9930.top:9930/bootstrap-icons/1.10.0/font/bootstrap-icons.css"  rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"  rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.css"  rel="stylesheet">
     <style>
         .drop-area {
             border: 3px dashed #ccc;
@@ -399,7 +399,7 @@ try {
         </div>
     </div>
  
-    <script src="https://cdn.9930.top:9930/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
     <script>
         (function() {
             const dropArea = document.getElementById('dropArea'); 
