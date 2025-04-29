@@ -9,7 +9,7 @@
 
 3、需要用 Composer 安装 AWS SDK：
 
-ssh 进入网站目录：cd /www/wwwroot/images_我是网页目录_com
+ssh 进入网站目录：cd /www/wwwroot/images_我是网站目录_com
 
     composer require aws/aws-sdk-php
 
